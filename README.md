@@ -10,6 +10,31 @@
 
 # Libros
 
+## Julia
+
+- [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
+
+- [Computational Economics for PhDs](https://floswald.github.io/NumericalMethods/)
+
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+
+- [Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
+
+- [Introducción a la Programación en Julia](https://mauriciotejada.com/programacionjulia/)
+
+- [Introduction to Probability for Data Science](https://probability4datascience.com/)
+
+- [Julia Data Science](https://juliadatascience.io/)
+
+- [Julia Language: A Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+
+- [Julia Programming for Operations Research](https://www.softcover.io/read/7b8eb7d0/juliabook)
+
+- [Programaci&#243;n en Julia](https://mauriciotejada.com/programacionjulia/)
+
+- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+
+
 ## Econometrics & Statistics
 
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
@@ -29,35 +54,6 @@
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-
-## Julia
-
-- [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
-
-- [Computational Economics for PhDs](https://floswald.github.io/NumericalMethods/)
-
-- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
-
-- [Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
-
-- [Introducción a la Programación en Julia](https://mauriciotejada.com/programacionjulia/)
-
-- [Introduction to Probability for Data Science](https://probability4datascience.com/)
-
-- [Julia Data Science](https://juliadatascience.io/)
-
-- [Julia Tutorials](https://julia.school/julia/)
-
-- [Julia Language: A Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
-
-- [Julia Programming for Operations Research](https://www.softcover.io/read/7b8eb7d0/juliabook)
-
-- [JuliaTutorial](https://www.tutorialkart.com/julia/#gsc.tab=0)
-
-- [Programaci&#243;n en Julia](https://mauriciotejada.com/programacionjulia/)
-
-- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-
 
 ## R Espa&#241;ol
 
@@ -270,6 +266,10 @@
 ## Julia
 
 - [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
+
+- [JuliaTutorial](https://www.tutorialkart.com/julia/#gsc.tab=0)
+
+- [Julia Tutorials](https://julia.school/julia/)
 
 ## Python
 
