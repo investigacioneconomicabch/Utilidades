@@ -48,8 +48,6 @@
 
 - [Julia Tutorials](https://julia.school/julia/)
 
-- [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
-
 - [Julia Language: A Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 
 - [Julia Programming for Operations Research](https://www.softcover.io/read/7b8eb7d0/juliabook)
@@ -268,6 +266,14 @@
 - [Time Series Analysis and Its Applications: code](https://www.stat.pitt.edu/stoffer/tsa4/Rexamples.htm)
 
 # Tutoriales
+
+## Julia
+
+- [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
+
+## Python
+
+## R
 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
