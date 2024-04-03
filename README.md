@@ -10,6 +10,14 @@
 
 # Libros
 
+## Econometrics & Statistics
+
+- [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
+
+- [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
+
+- [MATTEO COURTHOUD](https://matteocourthoud.github.io/course/)
+
 ## Julia
 
 - [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
@@ -33,15 +41,6 @@
 - [Programaci&#243;n en Julia](https://mauriciotejada.com/programacionjulia/)
 
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-
-
-## Econometrics & Statistics
-
-- [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
-
-- [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
-
-- [MATTEO COURTHOUD](https://matteocourthoud.github.io/course/)
 
 ## Python
 
