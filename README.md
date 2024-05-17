@@ -54,6 +54,8 @@
 
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
+- [Scientific Python Lectures](https://lectures.scientific-python.org/) 
+
 ## R Espa&#241;ol
 
 - [An&#225;lisis exploratorio y visualizaci&#243;n de datos con R](http://www.fcharte.com/libros/ExploraVisualizaConR-Fcharte.pdf)
