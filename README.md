@@ -302,15 +302,21 @@
 
 - [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)
 
+- [Data Science With Julia](https://www.youtube.com/playlist?list=PLe1T0uBrDrfOLQlomF_4AxHa4LX0wsCXa)
+
 - [Dolo.jl](https://www.econforge.org/Dolo.jl/latest/index.html)
 
 - [EasyModelAnalysis.jl](https://sciml.github.io/EasyModelAnalysis.jl/dev/)
 
 - [Flux.jl](https://fluxml.ai/Flux.jl/stable/models/recurrence/)
 
+- [Introduction to Julia for Data Science](https://www.youtube.com/@pszufe/videos?view=0&sort=dd&shelf_id=1)
+
 - [JuliaGeo](https://juliageo.org/)
 
 - [Julia Econ](https://github.com/bankofcanada/TutorialsEcon.jl/tree/master)
+
+- [Julia for Data Science by Huda Nassar](https://www.youtube.com/playlist?list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO)
 
 - [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
 
@@ -326,7 +332,7 @@
 
 - [MessyTimeSeries.jl](https://fipelle.github.io/MessyTimeSeries.jl/stable/)
 
-- [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](https://github.com/pszufe/2024_MIT_18.S097_Introduction-to-Julia-for-Data-Science/)
+- [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science)
 
 - [Modeling with Julia -- with an Application to the New York Fed DSGE](https://github.com/FRBNY-DSGE/CEF_2017_Workshop/tree/master)
 
@@ -428,6 +434,8 @@
 
 ## Data Science & Machine Learning
 
+- [A graduate course in econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz)
+
 - [Core trend inflation](https://libertystreeteconomics.newyorkfed.org/2022/04/inflation-persistence-how-much-is-there-and-where-is-it-coming-from/)
 
 - [Cornell - Applied Machine Learning]([https://www.tidymodels.org/start/](https://kuleshov-group.github.io/aml-website/)
@@ -446,9 +454,21 @@
 
 - [Hands-On Data Visualization](https://handsondataviz.org/)
 
+- [Learning Bayesian Statistics](https://www.youtube.com/@learningbayesianstatistics8147)
+
+- [MIT - Computational Thinking | MIT 18.S191/6.S083 Spring 2021](https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
+
 - [MIT - Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/)
 
+- [MIT - Mastering Econometrics with Joshua Angrist](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8)
+
+- [MIT 14.771 Development Economics, Fall 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kvh3caDts2R6LmkYbmzaG)
+
+- [MIT 15.071 The Analytics Edge, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)
+
 - [Plotly Blogs](https://plotly.com/blog/)
+
+- [Seeing Theory](https://ourworldindata.org/)
 
 - [The Layers of Inflation Persistence](https://libertystreeteconomics.newyorkfed.org/2023/01/the-layers-of-inflation-persistence/)
 
@@ -461,6 +481,8 @@
 - [IMF courses](http://imf.smartcatalogiq.com/en/current/Catalog/All-Locations?)
 
 - [OpenIntro](https://www.openintro.org/about.php)
+
+- [Our World in Data](https://ourworldindata.org/)
 
 - [PowerPoint presentations generation](https://davidgohel.github.io/officer/articles/powerpoint.html#supported-contents)
 
