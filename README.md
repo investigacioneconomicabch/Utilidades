@@ -36,8 +36,6 @@
 
 - [Julia Language: A Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 
-- [Programaci&#243;n en Julia](https://mauriciotejada.com/programacionjulia/)
-
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
 ## Python
