@@ -14,7 +14,11 @@
 
 - [An Introduction to R and Python For Data Analysis](https://randpythonbook.netlify.app/)
 
+- [Bayesian Estimation of DSGE Models](https://web.sas.upenn.edu/schorf/companion-web-site-bayesian-estimation-of-dsge-models/)
+
 - [Data Science for Economics and Finance](https://sentometrics.com/papers/WP8.pdf)
+
+- [Dynare](http://webpersonal.uma.es/de/jtorres/pdf/Macro-2.pdf)
 
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
 
@@ -66,7 +70,9 @@
 
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-- [Scientific Python Lectures](https://lectures.scientific-python.org/) 
+- [Scientific Python Lectures](https://lectures.scientific-python.org/)
+
+- [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/html/index.html) 
 
 ## R Espa&#241;ol
 
@@ -159,6 +165,8 @@
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 - [Graphical Data Analysis with R](http://www.gradaanwr.net/)
+
+- [Hands-On Data Visualization](https://handsondataviz.org/)
 
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
@@ -294,9 +302,13 @@
 
 - [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)
 
+- [Dolo.jl](https://www.econforge.org/Dolo.jl/latest/index.html)
+
 - [EasyModelAnalysis.jl](https://sciml.github.io/EasyModelAnalysis.jl/dev/)
 
 - [Flux.jl](https://fluxml.ai/Flux.jl/stable/models/recurrence/)
+
+- [JuliaGeo](https://juliageo.org/)
 
 - [Julia Econ](https://github.com/bankofcanada/TutorialsEcon.jl/tree/master)
 
@@ -312,6 +324,8 @@
 
 - [Measurement & Multilevel Modeling Lab](https://mmmlab.rbind.io/)
 
+- [MessyTimeSeries.jl](https://fipelle.github.io/MessyTimeSeries.jl/stable/)
+
 - [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](https://github.com/pszufe/2024_MIT_18.S097_Introduction-to-Julia-for-Data-Science/)
 
 - [Modeling with Julia -- with an Application to the New York Fed DSGE](https://github.com/FRBNY-DSGE/CEF_2017_Workshop/tree/master)
@@ -319,6 +333,8 @@
 - [NowcastLSTM.jl](https://github.com/dhopp1/NowcastLSTM.jl/tree/main)
 
 - [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/@scimlorg)
+
+- [RiskAdjustedLinearizations.jl](https://github.com/chenwilliam77/RiskAdjustedLinearizations.jl?tab=readme-ov-file#riskadjustedlinearizationsjl)
 
 - [RXinfer.jl Automatic Bayesian Inference through Reactive Message Passing](https://rxinfer.ml/)
 
@@ -332,11 +348,17 @@
 
 - [TidierDB.jl](https://github.com/TidierOrg/TidierDB.jl)
 
+- [TotalLeastSquares.jl](https://github.com/baggepinnen/TotalLeastSquares.jl)
+
+- [X13.jl](https://github.com/julianjohs/X13)
+
 ## Python
 
 - [Awesome Polars](https://github.com/ddotta/awesome-polars)
 
 - [Blogs about Pandas](https://tomaugspurger.net/tags/pandas/)
+
+- [Convert Jupyter Notebook to Web App](https://github.com/mljar/mercury)
 
 - [cuDF Python GPU DataFrame library](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb)
 
@@ -352,6 +374,10 @@
 
 - [Nowcasting - Ghysels & Marcellino Pyrhon Code](https://github.com/ryansmccoy/applied-economics)
 
+- [Power bi forecasting using Python](https://colab.research.google.com/github/pawarbi/blog/blob/master/_notebooks/2020-04-24-timeseries-powerbi.ipynb)
+
+- [Probably Overthinking It](https://allendowney.github.io/ProbablyOverthinkingIt/intro.html)
+
 - [Prophet para modelados de temperatura](https://colab.research.google.com/drive/1zh_kUwlqI9z6BhDxzHcY90JaTL6puQCb?usp=sharing)
 
 - [Tidy data manipulation and modelation](https://blog.tidy-intelligence.com/)
@@ -363,6 +389,8 @@
 - [Aprende Tidyverse](https://aprendetidyverse.com/courses/)
 
 - [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
+- [Data Visualization Techniques](https://github.com/mini-pw/2021Z-DataVisualizationTechniques)
 
 - [datamaps](https://github.com/JohnCoene/datamaps)
 
@@ -415,6 +443,8 @@
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
 
 - [FRBNY-DSGE](https://github.com/FRBNY-DSGE/DSGE-2015-Apr)
+
+- [Hands-On Data Visualization](https://handsondataviz.org/)
 
 - [MIT - Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/)
 
