@@ -10,13 +10,21 @@
 
 # Libros
 
-## Econometrics & Statistics
+## Data Science, Econometrics & Statistics
+
+- [An Introduction to R and Python For Data Analysis](https://randpythonbook.netlify.app/)
+
+- [Data Science for Economics and Finance](https://sentometrics.com/papers/WP8.pdf)
 
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
+
+- [Introduction to Probability for Data Science - Matlab, Python, Julia](https://probability4datascience.com/index.html)
 
 - [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 
 - [MATTEO COURTHOUD](https://matteocourthoud.github.io/course/)
+
+- [Mathematical Engineering of Deep Learning - Juia, Python, R](https://deeplearningmath.org/)
 
 ## Julia
 
@@ -35,6 +43,10 @@
 - [Julia Data Science](https://juliadatascience.io/)
 
 - [Julia Language: A Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+
+- [Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications](https://github.com/SciML/SciMLBook)
+
+- [Romeo and Julia, where Romeo is Basic Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
@@ -120,6 +132,8 @@
 
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 
+- [Empirical Research Methods](https://empirical-methods.com/)
+
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org)
 
 - [End To End Data Science With R](https://e2e-ds-r.franckess.com/)
@@ -137,6 +151,8 @@
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)
+
+- [Geospatial Health Data with R](https://www.paulamoraga.com/book-geospatial/)
 
 - [ggplot2 + BBC](https://tacosdedatos.com/ggplot2-mas-bbc-es-igual-a-bbplot)
 
@@ -190,6 +206,8 @@
 
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 
+- [Modern Statistics with R](https://modernstatisticswithr.com/index.html)
+
 - [Pandoc User's Guide](https://pandoc.org/MANUAL.html)
 
 - [Panel data econometrics in R](https://cran.r-project.org/web/packages/plm/vignettes/A_plmPackage.html)
@@ -199,6 +217,8 @@
 - [Public Policy Analytics: Code & Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/)
 
 - [Practical Econometrics and Data Science](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/)
+
+- [Predictive Analytics](http://uc-r.github.io/predictive)
 
 - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
 
@@ -236,6 +256,8 @@
 
 - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
+- [Spatial Data Science](https://r-spatial.org/book/)
+
 - [Statistical Inference via Data Science](https://moderndive.com/)
 
 - [Text Mining with R](https://www.tidytextmining.com/)
@@ -272,7 +294,13 @@
 
 - [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)
 
+- [EasyModelAnalysis.jl](https://sciml.github.io/EasyModelAnalysis.jl/dev/)
+
+- [Flux.jl](https://fluxml.ai/Flux.jl/stable/models/recurrence/)
+
 - [Julia Econ](https://github.com/bankofcanada/TutorialsEcon.jl/tree/master)
+
+- [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
 
 - [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
 
@@ -284,21 +312,49 @@
 
 - [Measurement & Multilevel Modeling Lab](https://mmmlab.rbind.io/)
 
+- [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](https://github.com/pszufe/2024_MIT_18.S097_Introduction-to-Julia-for-Data-Science/)
+
+- [Modeling with Julia -- with an Application to the New York Fed DSGE](https://github.com/FRBNY-DSGE/CEF_2017_Workshop/tree/master)
+
+- [NowcastLSTM.jl](https://github.com/dhopp1/NowcastLSTM.jl/tree/main)
+
+- [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/@scimlorg)
+
+- [RXinfer.jl Automatic Bayesian Inference through Reactive Message Passing](https://rxinfer.ml/)
+
+- [Sequential Monte Carlo With Model Tempering](https://github.com/markomlikota/SMC-MT/tree/main)
+
+- [Survival.jl](https://juliastats.org/Survival.jl/latest/)
+
+- [The do’s and don’ts of Julia programming](https://juliazoid.com/the-dos-and-don-ts-of-julia-programming-tips-for-writing-efficient-maintainable-code-42c973af0c1a)
+
+- [The R Graph Gallery](https://r-graph-gallery.com/)
+
 - [TidierDB.jl](https://github.com/TidierOrg/TidierDB.jl)
 
 ## Python
 
-- [Tidy data manipulation and modelation](https://blog.tidy-intelligence.com/)
+- [Awesome Polars](https://github.com/ddotta/awesome-polars)
 
 - [Blogs about Pandas](https://tomaugspurger.net/tags/pandas/)
 
 - [cuDF Python GPU DataFrame library](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb)
+
+- [Forecasting-Inflation-Rates-of-Poland](https://github.com/msikorski93/Forecasting-Inflation-Rates-of-Poland/blob/main/Mar-2023_update.ipynb)
+
+- [Forecasting Inflation with ARIMA and LSTM](https://www.kaggle.com/code/calven22/forecasting-inflation-with-arima-and-lstm)
+
+- [leafmap - Geospatial Python](https://github.com/opengeos/leafmap)
 
 - [Nowcasting - Reservoir-Computing-for-Macroeconomic-Modelling](https://github.com/RCEconModelling/Reservoir-Computing-for-Macroeconomic-Modelling/tree/main)
 
 - [Nowcasting - Ghysels & Marcellino](https://eghysels.web.unc.edu/)
 
 - [Nowcasting - Ghysels & Marcellino Pyrhon Code](https://github.com/ryansmccoy/applied-economics)
+
+- [Prophet para modelados de temperatura](https://colab.research.google.com/drive/1zh_kUwlqI9z6BhDxzHcY90JaTL6puQCb?usp=sharing)
+
+- [Tidy data manipulation and modelation](https://blog.tidy-intelligence.com/)
 
 ## R
 
@@ -308,9 +364,15 @@
 
 - [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 
+- [datamaps](https://github.com/JohnCoene/datamaps)
+
 - [Datanovia](https://www.datanovia.com/en/)
 
 - [Earth Analytics Course](https://www.earthdatascience.org/courses/earth-analytics/)
+
+- [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/)
+
+- [Introduction to R Programming](https://adamkucz.github.io/psych548/)
 
 - [Kaggle](https://www.kaggle.com/learn/overview)
 
@@ -318,19 +380,47 @@
 
 - [Learn Data Science](https://blog.exploratory.io/)
 
+- [Radiant – Business analytics using R and Shiny](https://radiant-rstats.github.io/docs/)
+
 - [R Charts](https://r-charts.com/ggplot2/)
 
+- [R Crash Course for Biologists](https://github.com/ColauttiLab/RCrashCourse_Book/tree/master)
+
 - [R-Econometrics](https://www.r-econometrics.com/)
+
+- [Reproducible Science with Rmarkdown](https://github.com/Pakillo/Rmarkdown_workshop)
+
+- [R/Pharma Conference 2023](https://github.com/nrennie/r-pharma-2023-tidymodels)
 
 - [Tutorial on Advanced Statistics](http://r-statistics.co/)
 
 - [Tidymodels](https://www.tidymodels.org/start/)
 
+- [Workshop on data visualisation with ggplot2](https://github.com/Pakillo/ggplot-intro)
+
 ## Data Science & Machine Learning
 
-- [Cornell - Applied Machine Learning]([https://www.tidymodels.org/start/](https://kuleshov-group.github.io/aml-website/))
+- [Core trend inflation](https://libertystreeteconomics.newyorkfed.org/2022/04/inflation-persistence-how-much-is-there-and-where-is-it-coming-from/)
+
+- [Cornell - Applied Machine Learning]([https://www.tidymodels.org/start/](https://kuleshov-group.github.io/aml-website/)
+
+- [Data Science Tools](https://www.mit.edu/~amidi/teaching/)
+
+- [Dataviz Inspiration](https://www.dataviz-inspiration.com/)
+
+- [Deep Learning Course](https://fleuret.org/dlc/#lectures)
+
+- [Economía Aplicada](http://betaeconomia.blogspot.com/2022/11/modelo-de-analisis-macroeconomico.html?m=1)
+
+- [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
+
+- [FRBNY-DSGE](https://github.com/FRBNY-DSGE/DSGE-2015-Apr)
 
 - [MIT - Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/)
+
+- [Plotly Blogs](https://plotly.com/blog/)
+
+- [The Layers of Inflation Persistence](https://libertystreeteconomics.newyorkfed.org/2023/01/the-layers-of-inflation-persistence/)
 
 # Utilidades
 
