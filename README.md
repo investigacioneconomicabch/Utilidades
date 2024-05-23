@@ -42,9 +42,13 @@
 
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/data-intro.html)
 
+- [Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)
+
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
+
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/)
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
@@ -118,6 +122,8 @@
 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org)
 
+- [End To End Data Science With R](https://e2e-ds-r.franckess.com/)
+
 - [Exploring, Visualizing, and Modeling Big Data with R](https://okanbulut.github.io/bigdata/)
 
 - [Fisheries Catch Forecasting](https://fish-forecast.github.io/Fish-Forecast-Bookdown/index.html)
@@ -165,6 +171,8 @@
 - [Introduction to R for Natural Resource Scientists](https://bstaton1.github.io/au-r-workshop/)
 
 - [Just Enough R](https://benwhalley.github.io/just-enough-r/)
+
+- [Learning analytics methods and tutorials](https://lamethods.github.io/)
 
 - [Learning Statistics with R](https://learningstatisticswithr.com/)
 
@@ -262,17 +270,41 @@
 
 ## Julia
 
+- [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl)
+
+- [Julia Econ](https://github.com/bankofcanada/TutorialsEcon.jl/tree/master)
+
 - [Julia for Talented Amateurs](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
 
 - [JuliaTutorial](https://www.tutorialkart.com/julia/#gsc.tab=0)
 
 - [Julia Tutorials](https://julia.school/julia/)
 
+- [Maximum Likelihood Estimation with Julia](https://mmmlab.rbind.io/posts/2021-03-09-julia-mle/)
+
+- [Measurement & Multilevel Modeling Lab](https://mmmlab.rbind.io/)
+
+- [TidierDB.jl](https://github.com/TidierOrg/TidierDB.jl)
+
 ## Python
+
+- [Tidy data manipulation and modelation](https://blog.tidy-intelligence.com/)
+
+- [Blogs about Pandas](https://tomaugspurger.net/tags/pandas/)
+
+- [cuDF Python GPU DataFrame library](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb)
+
+- [Nowcasting - Reservoir-Computing-for-Macroeconomic-Modelling](https://github.com/RCEconModelling/Reservoir-Computing-for-Macroeconomic-Modelling/tree/main)
+
+- [Nowcasting - Ghysels & Marcellino](https://eghysels.web.unc.edu/)
+
+- [Nowcasting - Ghysels & Marcellino Pyrhon Code](https://github.com/ryansmccoy/applied-economics)
 
 ## R
 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+
+- [Aprende Tidyverse](https://aprendetidyverse.com/courses/)
 
 - [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 
@@ -282,7 +314,11 @@
 
 - [Kaggle](https://www.kaggle.com/learn/overview)
 
+- [Kotzé - Time Series Analysis](https://www.kevinkotze.org/time-series-analysis)
+
 - [Learn Data Science](https://blog.exploratory.io/)
+
+- [R Charts](https://r-charts.com/ggplot2/)
 
 - [R-Econometrics](https://www.r-econometrics.com/)
 
@@ -290,11 +326,13 @@
 
 - [Tidymodels](https://www.tidymodels.org/start/)
 
+## Data Science & Machine Learning
+
+- [Cornell - Applied Machine Learning]([https://www.tidymodels.org/start/](https://kuleshov-group.github.io/aml-website/))
+
+- [MIT - Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/)
+
 # Utilidades
-
-- [book4you](https://b-ok.cc/)
-
-- [Bookfi](http://en.bookfi.net/)
 
 - [Desbloquear papers](https://sci-hub.tw)
 
@@ -307,6 +345,8 @@
 - [PowerPoint presentations generation](https://davidgohel.github.io/officer/articles/powerpoint.html#supported-contents)
 
 - [R how-to](https://www.displayr.com/category/r/r-how-to/)
+
+- [Replication Database](https://metaanalyses.shinyapps.io/replicationdatabase/)
 
 - [Unicode characters table](https://www.rapidtables.com/code/text/unicode-characters.html)
 
