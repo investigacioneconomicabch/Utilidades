@@ -331,7 +331,7 @@
 
 - [MessyTimeSeries.jl](https://fipelle.github.io/MessyTimeSeries.jl/stable/)
 
-- [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science)
+- [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science]([MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](https://github.com/pszufe/MIT_18.S097_Introduction-to-Julia-for-Data-Science)
 
 - [Modeling with Julia -- with an Application to the New York Fed DSGE](https://github.com/FRBNY-DSGE/CEF_2017_Workshop/tree/master)
 
