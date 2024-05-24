@@ -1,16 +1,11 @@
-# Links_Economics
-
-[Jesús Fernández Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-
 # Referencias Programa de Estad&#237;stica
 
-[Process Improvement Using Data](https://learnche.org/pid/contents)
 
 [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 
 # Libros
 
-## Data Science, Econometrics & Statistics
+## Data Science, Economics, Econometrics & Statistics
 
 - [An Introduction to R and Python For Data Analysis](https://randpythonbook.netlify.app/)
 
@@ -23,6 +18,8 @@
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
 
 - [Introduction to Probability for Data Science - Matlab, Python, Julia](https://probability4datascience.com/index.html)
+
+- [Jesús Fernández Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 - [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 
@@ -229,6 +226,8 @@
 - [Predictive Analytics](http://uc-r.github.io/predictive)
 
 - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
+
+- [Process Improvement Using Data](https://learnche.org/pid/contents)
 
 - [Programming for Psychologists](https://www.crumplab.com/programmingforpsych/index.html)
 
