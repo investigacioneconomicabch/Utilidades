@@ -1,8 +1,3 @@
-# Referencias Programa de Estad&#237;stica
-
-
-[Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
-
 # Libros
 
 ## Data Science, Economics, Econometrics & Statistics
@@ -315,7 +310,11 @@
 
 - [Julia Econ](https://github.com/bankofcanada/TutorialsEcon.jl/tree/master)
 
+- [Julia for Beginners](https://www.youtube.com/@doggodotjl/playlists)
+
 - [Julia for Data Science by Huda Nassar](https://www.youtube.com/playlist?list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO)
+
+- [Julia for Economists](https://www.youtube.com/playlist?list=PLbuwVVKCI3sRW0Y5ehBFwdFVuyuy87ram)
 
 - [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
 
@@ -413,6 +412,8 @@
 
 - [Learn Data Science](https://blog.exploratory.io/)
 
+- [Learn to Purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)
+
 - [Radiant – Business analytics using R and Shiny](https://radiant-rstats.github.io/docs/)
 
 - [R Charts](https://r-charts.com/ggplot2/)
@@ -438,6 +439,8 @@
 - [Core trend inflation](https://libertystreeteconomics.newyorkfed.org/2022/04/inflation-persistence-how-much-is-there-and-where-is-it-coming-from/)
 
 - [Cornell - Applied Machine Learning]([https://www.tidymodels.org/start/](https://kuleshov-group.github.io/aml-website/)
+
+- [data.table in R: The Complete Beginners Guide](https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/)
 
 - [Data Science Tools](https://www.mit.edu/~amidi/teaching/)
 
@@ -479,6 +482,8 @@
 
 - [IMF courses](http://imf.smartcatalogiq.com/en/current/Catalog/All-Locations?)
 
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+
 - [OpenIntro](https://www.openintro.org/about.php)
 
 - [Our World in Data](https://ourworldindata.org/)
@@ -489,42 +494,48 @@
 
 - [Replication Database](https://metaanalyses.shinyapps.io/replicationdatabase/)
 
+- [Stanford Online](https://www.youtube.com/@stanfordonline)
+
+- [Talks at Google](https://www.youtube.com/@talksatgoogle)
+
 - [Unicode characters table](https://www.rapidtables.com/code/text/unicode-characters.html)
+
+- [YaleCourses](https://www.youtube.com/@yalecourses)
 
 # Art&#237;culos sobre temas espec&#237;ficos
 
-- [Libros de referencia](https://openstax.org/subjects)
-
-- [Calculus v2](https://openstax.org/details/books/calculus-volume-2)
+- [A Brief Story of Time](https://youtu.be/jgimbmLx0tw?si=GFNKH5whTgN_46L8)
 
 - [A First Course in Linear Algebra](http://linear.ups.edu/fcla/front-matter.html)
 
-- [Latex for math](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+- [An Introduction to Algebraic Graph Theory](https://www.geneseo.edu/~aguilar/public/notes/Graph-Theory-HTML/index.html)
 
-- [Open Intro Statistics](https://www.openintro.org/book/os/)
+- [blog posts on r for data science](https://honingds.com/r/)
 
-- [Introduction to STAT 415](https://online.stat.psu.edu/stat415/lesson/introduction-stat-415)
+- [Calculus v2](https://openstax.org/details/books/calculus-volume-2)
+
+- [Dimensionality reduction](http://rpubs.com/Saskia/520216)
+
+- [Feynman - Fun to Imagine](https://youtu.be/P1ww1IXRfTA?si=_ovH4QSSh6-rHN2n)
 
 - [Fundamentals of Linear Algebra and Optimization](https://www.cis.upenn.edu/~cis515/)
 
 - [Graph Theory Tutorial](https://www.tutorialspoint.com/graph_theory/index.htm)
 
-- [An Introduction to Algebraic Graph Theory](https://www.geneseo.edu/~aguilar/public/notes/Graph-Theory-HTML/index.html)
+- [Introduction to Probability, statistics and Random Processes](https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php)
+
+- [Introduction to STAT 415](https://online.stat.psu.edu/stat415/lesson/introduction-stat-415)
+
+- [Latex for math](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+- [Libros de referencia](https://openstax.org/subjects)
+
+- [Macroeconomics: Theory Through Applications](https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/index.html)
 
 - [Network Science](https://www.sci.unich.it/~francesc/teaching/network/)
 
-- [Introduction to Probability, statistics and Random Processes](https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php)
-
-- [blog posts on r for data science](https://honingds.com/r/)
-
-- [data.table in R: The Complete Beginners Guide](https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/)
-
-- [Learn to Purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)
-
-- [Dimensionality reduction](http://rpubs.com/Saskia/520216)
+- [Open Intro Statistics](https://www.openintro.org/book/os/)
 
 - [Practical ggplot2](https://wilkelab.org/practicalgg/)
 
 - [Ten Quick Tips for Running a Less Painful Meeting](https://github.com/gvwilson/10-meeting/blob/master/README.md)
-
-- [Macroeconomics: Theory Through Applications](https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/index.html)
