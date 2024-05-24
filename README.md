@@ -522,6 +522,8 @@
 
 - [Graph Theory Tutorial](https://www.tutorialspoint.com/graph_theory/index.htm)
 
+- [MIT - How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 - [Introduction to Probability, statistics and Random Processes](https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php)
 
 - [Introduction to STAT 415](https://online.stat.psu.edu/stat415/lesson/introduction-stat-415)
