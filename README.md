@@ -514,6 +514,8 @@
 
 - [Calculus v2](https://openstax.org/details/books/calculus-volume-2)
 
+- [Closer To Truth](https://www.youtube.com/@closertotruthtv)
+
 - [Dimensionality reduction](http://rpubs.com/Saskia/520216)
 
 - [Feynman - Fun to Imagine](https://youtu.be/P1ww1IXRfTA?si=_ovH4QSSh6-rHN2n)
@@ -521,6 +523,8 @@
 - [Fundamentals of Linear Algebra and Optimization](https://www.cis.upenn.edu/~cis515/)
 
 - [Graph Theory Tutorial](https://www.tutorialspoint.com/graph_theory/index.htm)
+
+- [Harvard Science Book Talks and Research Lectures](https://www.youtube.com/@harvardsciencebooktalksand4527)
 
 - [MIT - How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 
