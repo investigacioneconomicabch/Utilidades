@@ -488,6 +488,8 @@
 
 - [IMF courses](http://imf.smartcatalogiq.com/en/current/Catalog/All-Locations?)
 
+- [IMF Institute Learning Channel](https://www.youtube.com/channel/UCrSr-v_sSH6MXBopw5VUAUQ)
+
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 
 - [OpenIntro](https://www.openintro.org/about.php)
