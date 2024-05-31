@@ -384,6 +384,10 @@
 
 - [Prophet para modelados de temperatura](https://colab.research.google.com/drive/1zh_kUwlqI9z6BhDxzHcY90JaTL6puQCb?usp=sharing)
 
+- [PyData](https://www.youtube.com/@pydatatv)
+
+- [scikit-learn](https://www.youtube.com/@scikit-learn)
+
 - [Tidy data manipulation and modelation](https://blog.tidy-intelligence.com/)
 
 ## R
@@ -453,6 +457,8 @@
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
 
 - [FRBNY-DSGE](https://github.com/FRBNY-DSGE/DSGE-2015-Apr)
+
+- [Google Cloud Tech](https://www.youtube.com/@googlecloudtech)
 
 - [Hands-On Data Visualization](https://handsondataviz.org/)
 
