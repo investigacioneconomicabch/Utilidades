@@ -22,6 +22,8 @@
 
 - [Mathematical Engineering of Deep Learning - Juia, Python, R](https://deeplearningmath.org/)
 
+- [Randall Romero_Apuntes de Macroeconometría](https://randall-romero.github.io/econometria/00-acerca.html)
+
 ## Julia
 
 - [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
