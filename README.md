@@ -16,11 +16,13 @@
 
 - [Jesús Fernández Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
-- [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
-
 - [MATTEO COURTHOUD](https://matteocourthoud.github.io/course/)
 
 - [Mathematical Engineering of Deep Learning - Juia, Python, R](https://deeplearningmath.org/)
+
+- [ml4econ](https://github.com/ml4econ)
+
+- [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 
 - [Randall Romero_Apuntes de Macroeconometría](https://randall-romero.github.io/econometria/00-acerca.html)
 
