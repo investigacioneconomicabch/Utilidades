@@ -102,6 +102,8 @@
 
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)
 
+- [An introduction to statistical learning](https://hastie.su.domains/ISLR2/tmp2.pdf)
+
 - [An Introduction to Statistical Programming Methods with R](https://smac-group.github.io/ds/)
 
 - [Another Book on Data Science](https://www.anotherbookondatascience.com/index.html)
@@ -171,6 +173,8 @@
 - [Hands-On Programming with R_Quarto](https://jjallaire.github.io/hopr/)
 
 - [Happy Git and GitHub for the useR](https://happygitwithr.com)
+
+- [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)
 
 - [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
@@ -249,6 +253,8 @@
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 - [R packages](http://r-pkgs.had.co.nz/)
+
+- [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
 - [R Programming for Research](https://geanders.github.io/RProgrammingForResearch/)
 
