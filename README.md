@@ -60,6 +60,8 @@
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
 
+- [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/)
+
 - [Modern Polars](https://kevinheavey.github.io/modern-polars/)
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -133,6 +135,8 @@
 - [Data Wrangling with R](https://wrangle-r.rsquaredacademy.com/)
 
 - [Data wrangling, exploration, and analysis with R](https://stat545.com/)
+
+- [Deep R Programming](https://deepr.gagolewski.com/)
 
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 
