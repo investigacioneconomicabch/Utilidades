@@ -454,7 +454,13 @@
 
 ## Data Science & Machine Learning
 
+- [500 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
 - [A graduate course in econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz)
+
+- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
+
+- [CleanLab](https://github.com/cleanlab/cleanlab)
 
 - [Core trend inflation](https://libertystreeteconomics.newyorkfed.org/2022/04/inflation-persistence-how-much-is-there-and-where-is-it-coming-from/)
 
@@ -491,6 +497,8 @@
 - [MIT 15.071 The Analytics Edge, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)
 
 - [Plotly Blogs](https://plotly.com/blog/)
+
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 - [Seeing Theory](https://ourworldindata.org/)
 
