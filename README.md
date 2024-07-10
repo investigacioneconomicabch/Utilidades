@@ -70,7 +70,9 @@
 
 - [Scientific Python Lectures](https://lectures.scientific-python.org/)
 
-- [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/html/index.html) 
+- [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/html/index.html)
+
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## R Espa&#241;ol
 
