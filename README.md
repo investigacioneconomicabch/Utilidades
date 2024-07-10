@@ -278,6 +278,8 @@
 
 - [Statistical Inference via Data Science](https://moderndive.com/)
 
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+
 - [Text Mining with R](https://www.tidytextmining.com/)
 
 - [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
