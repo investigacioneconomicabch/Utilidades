@@ -26,6 +26,8 @@
 
 - [Randall Romero_Apuntes de Macroeconometría](https://randall-romero.github.io/econometria/00-acerca.html)
 
+- [Deep Learning](https://github.com/elonmusk408/data-science-learning-videos?tab=readme-ov-file)
+
 ## Julia
 
 - [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
