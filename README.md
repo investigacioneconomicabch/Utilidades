@@ -2,11 +2,17 @@
 
 ## Data Science, Economics, Econometrics & Statistics
 
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown/courses)
+
 - [An Introduction to R and Python For Data Analysis](https://randpythonbook.netlify.app/)
 
 - [Bayesian Estimation of DSGE Models](https://web.sas.upenn.edu/schorf/companion-web-site-bayesian-estimation-of-dsge-models/)
 
+- [Caltech - Intro to Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=TLPQMTgwNzIwMjS_to-oEcWSxA&index=1)
+
 - [Data Science for Economics and Finance](https://sentometrics.com/papers/WP8.pdf)
+
+- [Deep Learning](https://github.com/elonmusk408/data-science-learning-videos?tab=readme-ov-file)
 
 - [Dynare](http://webpersonal.uma.es/de/jtorres/pdf/Macro-2.pdf)
 
@@ -15,6 +21,8 @@
 - [Introduction to Probability for Data Science - Matlab, Python, Julia](https://probability4datascience.com/index.html)
 
 - [Jesús Fernández Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+
+- [Andrew Ng - Machine learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 - [MATTEO COURTHOUD](https://matteocourthoud.github.io/course/)
 
@@ -26,7 +34,7 @@
 
 - [Randall Romero_Apuntes de Macroeconometría](https://randall-romero.github.io/econometria/00-acerca.html)
 
-- [Deep Learning](https://github.com/elonmusk408/data-science-learning-videos?tab=readme-ov-file)
+- [StatQuest](https://www.youtube.com/@statquest/featured)
 
 ## Julia
 
