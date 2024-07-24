@@ -8,6 +8,8 @@
 
 - [Andrew Ng - Machine learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
+- [Applied Causal Inference](https://appliedcausalinference.github.io/aci_book/)
+
 - [Bayesian Estimation of DSGE Models](https://web.sas.upenn.edu/schorf/companion-web-site-bayesian-estimation-of-dsge-models/)
 
 - [Caltech - Intro to Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=TLPQMTgwNzIwMjS_to-oEcWSxA&index=1)
@@ -17,6 +19,10 @@
 - [Deep Learning](https://github.com/elonmusk408/data-science-learning-videos?tab=readme-ov-file)
 
 - [Dynare](http://webpersonal.uma.es/de/jtorres/pdf/Macro-2.pdf)
+
+- [Hands-On Data Visualization](https://handsondataviz.org/)
+
+- [Industrial Statistics](https://gedeck.github.io/mistat-code-solutions/IndustrialStatistics/)
 
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
 
@@ -38,9 +44,13 @@
 
 - [ml4econ](https://github.com/ml4econ)
 
+- [Modern Statistics](https://gedeck.github.io/mistat-code-solutions/ModernStatistics/)
+
 - [Practitioner's Guide to Data Science](https://scientistcafe.com/ids/)
 
 - [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
+
+- [R for Data Science](https://r4ds.hadley.nz/)
 
 - [Randall Romero_Apuntes de Macroeconometría](https://randall-romero.github.io/econometria/00-acerca.html)
 
@@ -106,6 +116,8 @@
 
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
+- [Python for Data Analysis, Repo](https://github.com/wesm/pydata-book/tree/3rd-edition)
+
 - [Scientific Python Lectures](https://lectures.scientific-python.org/)
 
 - [Think Python 1ed](https://greenteapress.com/wp/think-python/)
@@ -168,6 +180,8 @@
 
 - [Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 
+- [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
+
 - [Big Book of R](https://www.bigbookofr.com/)
 
 - [Biomedical Data Science](http://genomicsclass.github.io/book/)
@@ -191,6 +205,8 @@
 - [Data wrangling, exploration, and analysis with R](https://stat545.com/)
 
 - [Deep R Programming](https://deepr.gagolewski.com/)
+
+- [Design and Analysis of Experiments](https://designexptr.org/index.html)
 
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 
