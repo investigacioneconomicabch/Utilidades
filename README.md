@@ -6,6 +6,8 @@
 
 - [An Introduction to R and Python For Data Analysis](https://randpythonbook.netlify.app/)
 
+- [Andrew Ng - Machine learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 - [Bayesian Estimation of DSGE Models](https://web.sas.upenn.edu/schorf/companion-web-site-bayesian-estimation-of-dsge-models/)
 
 - [Caltech - Intro to Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=TLPQMTgwNzIwMjS_to-oEcWSxA&index=1)
@@ -22,13 +24,15 @@
 
 - [Jesús Fernández Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
-- [Andrew Ng - Machine learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Learning Data Science](https://learningds.org/intro.html)
 
 - [MATTEO COURTHOUD](https://matteocourthoud.github.io/course/)
 
 - [Mathematical Engineering of Deep Learning - Juia, Python, R](https://deeplearningmath.org/)
 
 - [ml4econ](https://github.com/ml4econ)
+
+- [Practitioner's Guide to Data Science](https://scientistcafe.com/ids/)
 
 - [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 
@@ -64,9 +68,15 @@
 
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/data-intro.html)
 
+- [Data Downtime Challenge](https://github.com/monte-carlo-data/data-downtime-challenge/tree/master)
+
+- [Geographical Data Science with Python](https://geographicdata.science/book/intro.html)
+
 - [Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)
 
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
+
+- [Large Language Models at Work](https://vladris.com/llm-book/)
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
 
@@ -83,6 +93,8 @@
 - [Think Python 3ed](https://allendowney.github.io/ThinkPython/index.html)
 
 - [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/html/index.html)
+
+- [Tidy Finance with Python](Tidy Finance with Python)
 
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
@@ -138,6 +150,8 @@
 
 - [Cookbook for R](http://www.cookbook-r.com/)
 
+- [Data Analysis in Medicine and Health using R](https://bookdown.org/drki_musa/dataanalysis/)
+
 - [Data Management, Analysis and Visualization with R](https://people.ohio.edu/ruhil/Rbook/)
 
 - [Data Manipulation in R](https://itsalocke.com/files/DataManipulationinR.pdf)
@@ -173,6 +187,8 @@
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)
+
+- [Geographical Data Science with R](https://bookdown.org/mcwimberly/gdswr-book/)
 
 - [Geospatial Health Data with R](https://www.paulamoraga.com/book-geospatial/)
 
@@ -230,6 +246,10 @@
 
 - [Microsoft Academia](https://mva.microsoft.com/ebooks?lng=en-US)
 
+- [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
+
+- [Modern Data Visualization with R_GitHub](https://github.com/rkabacoff/datavis_support)
+
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 
 - [Modern Statistics with R](https://modernstatisticswithr.com/index.html)
@@ -243,6 +263,8 @@
 - [Public Policy Analytics: Code & Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/)
 
 - [Practical Econometrics and Data Science](http://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/)
+
+- [Practical Statistics in Medicine with R](https://practical-stats-med-r.netlify.app/)
 
 - [Predictive Analytics](http://uc-r.github.io/predictive)
 
@@ -264,6 +286,8 @@
 
 - [R for Economic Research](https://book.rleripio.com/)
 
+- [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
+
 - [R Graphics Cookbook](http://users.metu.edu.tr/ozancan/R%20Graphics%20Cookbook.pdf)
 
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
@@ -282,15 +306,21 @@
 
 - [Reproducible Finance](http://www.reproduciblefinance.com/)
 
+- [Reproducible Medical Research with R](https://bookdown.org/pdr_higgins/rmrwr/)
+
 - [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)
 
 - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
 - [Spatial Data Science](https://r-spatial.org/book/)
 
+- [Spatial Statistics for Data Science](https://www.paulamoraga.com/book-spatial/)
+
 - [Statistical Inference via Data Science](https://moderndive.com/)
 
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+
+- [Telling Stories with Data](https://rohanalexander.github.io/telling_stories-published/)
 
 - [Text Mining with R](https://www.tidytextmining.com/)
 
@@ -307,6 +337,8 @@
 - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
 
 - [The tidyverse style guide](https://style.tidyverse.org/)
+
+- [Tidy Finance with R](https://www.tidy-finance.org/r/)
 
 - [Tidy Modeling with R](https://www.tmwr.org/)
 
