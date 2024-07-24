@@ -80,6 +80,8 @@
 
 - [Scientific Python Lectures](https://lectures.scientific-python.org/)
 
+- [Think Python 3ed](https://allendowney.github.io/ThinkPython/index.html)
+
 - [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/html/index.html)
 
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
