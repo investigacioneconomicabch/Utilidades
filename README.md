@@ -20,6 +20,12 @@
 
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
 
+- [Introduction to Data Science](https://rafalab.dfci.harvard.edu/dsbook/?fbclid=IwAR1-EBYuKvEeSq9q_SvCLFe-L1bnmQFFXRNZra9zXmv3EPL3eGymedVDNk0)
+
+- [I2DS_Part 1 - Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1/)
+
+- [I2DS_Part 2 - Statistics and Prediction Algorithms Through Case Studies](https://rafalab.dfci.harvard.edu/dsbook-part-2/)
+
 - [Introduction to Probability for Data Science - Matlab, Python, Julia](https://probability4datascience.com/index.html)
 
 - [Jesús Fernández Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
@@ -40,6 +46,10 @@
 
 - [StatQuest](https://www.youtube.com/@statquest/featured)
 
+- [TimeViz Plots](https://browser.timeviz.net/?)
+
+- [Using Julia, Python and R for Introductory Econometrics](https://www.urfie.net/)
+
 ## Julia
 
 - [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
@@ -49,6 +59,8 @@
 - [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
 
 - [Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
+
+- [Interactive Visualization and Plotting with Julia](https://github.com/PacktPublishing/Interactive-Visualization-and-Plotting-with-Julia)
 
 - [Introducción a la Programación en Julia](https://mauriciotejada.com/programacionjulia/)
 
@@ -66,6 +78,10 @@
 
 ## Python
 
+- [A Python - R Bilingual Dictionary](http://www.ylz.ncx.mybluehost.me/moderndata.design/PyR4MDS/)
+
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/data-intro.html)
 
 - [Data Downtime Challenge](https://github.com/monte-carlo-data/data-downtime-challenge/tree/master)
@@ -80,6 +96,8 @@
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
 
+- [Learning to Quantify](https://github.com/HLT-ISTI/QuaPy)
+
 - [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/)
 
 - [Modern Polars](https://kevinheavey.github.io/modern-polars/)
@@ -90,6 +108,8 @@
 
 - [Scientific Python Lectures](https://lectures.scientific-python.org/)
 
+- [Think Python 1ed](https://greenteapress.com/wp/think-python/)
+
 - [Think Python 3ed](https://allendowney.github.io/ThinkPython/index.html)
 
 - [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/html/index.html)
@@ -99,6 +119,8 @@
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## R Espa&#241;ol
+
+- [Amostragem - Muestreo- con R](https://amostragemcomr.github.io/livro/index.html)
 
 - [An&#225;lisis exploratorio y visualizaci&#243;n de datos con R](http://www.fcharte.com/libros/ExploraVisualizaConR-Fcharte.pdf)
 
@@ -139,6 +161,10 @@
 - [Answering questions with data](https://crumplab.github.io/statistics/)
 
 - [Applied Time Series Analysis](https://newonlinecourses.science.psu.edu/stat510/)
+
+- [Behavior Analysis with Machine Learning Using R](https://enriquegit.github.io/behavior-free/?fbclid=IwAR31qf0GdWdr9krjqVCKGdaK3fhiDYov7ELXhbJo2JmkXCiUBKlaUfUydaE)
+
+- [Behavior Analysis with Machine Learning Using R_GitHub](https://github.com/enriquegit/behavior-free-code)
 
 - [Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 
@@ -244,7 +270,11 @@
 
 - [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 
+- [Mastering Spark with R](https://therinspark.com/)
+
 - [Microsoft Academia](https://mva.microsoft.com/ebooks?lng=en-US)
+
+- [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/)
 
 - [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
 
