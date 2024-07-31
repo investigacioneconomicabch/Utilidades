@@ -70,6 +70,8 @@
 
 - [Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
 
+- [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+
 - [Interactive Visualization and Plotting with Julia](https://github.com/PacktPublishing/Interactive-Visualization-and-Plotting-with-Julia)
 
 - [Introducción a la Programación en Julia](https://mauriciotejada.com/programacionjulia/)
