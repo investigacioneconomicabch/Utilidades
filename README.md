@@ -20,6 +20,10 @@
 
 - [Dynare](http://webpersonal.uma.es/de/jtorres/pdf/Macro-2.pdf)
 
+- [Forecasting Principles and Practice, libro](https://otexts.com/fpp3/)
+
+- [Forecasting Principles and Practice, YouTube](https://www.youtube.com/playlist?list=PLyCNZ_xXGzpm7W9jLqbIyBAiSO5jDwJeE)
+
 - [Hands-On Data Visualization](https://handsondataviz.org/)
 
 - [Industrial Statistics](https://gedeck.github.io/mistat-code-solutions/IndustrialStatistics/)
