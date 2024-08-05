@@ -14,6 +14,10 @@
 
 - [Caltech - Intro to Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=TLPQMTgwNzIwMjS_to-oEcWSxA&index=1)
 
+- [Data Science and Machine Learning - Book](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf)
+
+- [Data Science and Machine Learning - Code](https://github.com/DSML-book)
+ 
 - [Data Science for Economics and Finance](https://sentometrics.com/papers/WP8.pdf)
 
 - [Deep Learning](https://github.com/elonmusk408/data-science-learning-videos?tab=readme-ov-file)
