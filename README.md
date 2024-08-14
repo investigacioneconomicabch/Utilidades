@@ -130,6 +130,8 @@
 
 - [Scientific Python Lectures](https://lectures.scientific-python.org/)
 
+- [The Python Coding Book](https://thepythoncodingbook.com/book-outline/)
+
 - [Think Python 1ed](https://greenteapress.com/wp/think-python/)
 
 - [Think Python 3ed](https://allendowney.github.io/ThinkPython/index.html)
